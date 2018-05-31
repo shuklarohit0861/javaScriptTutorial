@@ -1,5 +1,4 @@
 # javaScriptTutorial
-
 ##create a new branch and add what you have read
 
 ##clone the repo.
