@@ -1,8 +1,8 @@
 # javaScriptTutorial
 
-#create a new branch and add what you have read
+##create a new branch and add what you have read
 
-#clone the repo.
+##clone the repo.
    
  git clone https://github.com/shuklarohit0861/javaScriptTutorial.git
 
