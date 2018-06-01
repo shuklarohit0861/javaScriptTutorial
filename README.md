@@ -7,7 +7,8 @@
 * the create a topic file
 
 * add to a new branch
-    ```git checkout -b <branch-name>
+   ```bash
+       git checkout -b <branch-name>
        git add *
        git commit -m 'Your commit message'
     ```
